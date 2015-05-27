@@ -1,0 +1,1081 @@
+		<tag k="phone" v="6123784849"/>
+		<tag k="phone" v="6123319800"/>
+		<tag k="phone" v="6129243542"/>
+		<tag k="phone" v="715.386.3101"/>
+		<tag k="contact:phone" v="612-331-7474"/>
+		<tag k="phone" v="6123790744"/>
+		<tag k="phone" v="+1 651-450-2900"/>
+		<tag k="phone" v="+16123787063"/>
+		<tag k="phone" v="+1 952 8923456"/>
+		<tag k="amenity" v="telephone"/>
+		<tag k="phone" v="952-445-7733"/>
+		<tag k="phone" v="952-445-3303"/>
+		<tag k="phone" v="952-496-0505"/>
+		<tag k="phone" v="952-445-7956"/>
+		<tag k="phone" v="+1 612 886 2309"/>
+		<tag k="phone" v="+1 612 486 5500"/>
+		<tag k="phone" v="+1 952 929 9330"/>
+		<tag k="shop" v="mobile_phone"/>
+		<tag k="contact:phone" v="+1 (952) 233-7319"/>
+		<tag k="phone" v="+1 (612) 378-0208"/>
+		<tag k="phone" v="+16123332277"/>
+		<tag k="phone" v="(763) 789-4992"/>
+		<tag k="phone" v="+16516991000"/>
+		<tag k="phone" v="651-222-4083"/>
+		<tag k="phone" v="+1 612 377 3448"/>
+		<tag k="phone" v="952-767-1500"/>
+		<tag k="phone" v="651.407.7162"/>
+		<tag k="phone" v="+16122008051"/>
+		<tag k="phone" v="+1 612 870 4739"/>
+		<tag k="phone" v="6128718282"/>
+		<tag k="telephone" v="+1 612 827 8111"/>
+		<tag k="phone" v="+1 612 345 4516"/>
+		<tag k="phone" v="+16514580313"/>
+		<tag k="phone" v="+16514588179"/>
+		<tag k="phone" v="+16517680303"/>
+		<tag k="phone" v="612-379-4909"/>
+		<tag k="phone" v="+16517684100"/>
+		<tag k="phone" v="+16517684000"/>
+		<tag k="shop" v="mobile_phone"/>
+		<tag k="phone" v="+1651762948"/>
+		<tag k="phone" v="+1 612 729 5222"/>
+		<tag k="phone" v="(651) 340-1748"/>
+		<tag k="phone" v="763-421-4381"/>
+		<tag k="phone" v="763-421-4190"/>
+		<tag k="phone" v="763-862-2663"/>
+		<tag k="phone" v="763-421-7827"/>
+		<tag k="phone" v="763-421-4151"/>
+		<tag k="phone" v="763-323-0777"/>
+		<tag k="phone" v="763-323-9949"/>
+		<tag k="phone" v="763-427-4495"/>
+		<tag k="phone" v="763-421-5508"/>
+		<tag k="phone" v="763-427-6474"/>
+		<tag k="phone" v="763-767-2191"/>
+		<tag k="phone" v="763-506-0677"/>
+		<tag k="phone" v="763-323-3480"/>
+		<tag k="phone" v="763-323-6652"/>
+		<tag k="phone" v="763-252-1961"/>
+		<tag k="phone" v="763-323-3042"/>
+		<tag k="phone" v="763-421-7880"/>
+		<tag k="phone" v="763-421-6686"/>
+		<tag k="phone" v="763-712-4975"/>
+		<tag k="phone" v="763-323-1602"/>
+		<tag k="phone" v="763-427-0149"/>
+		<tag k="shop" v="mobile_phone"/>
+		<tag k="shop" v="mobile_phone"/>
+		<tag k="shop" v="mobile_phone"/>
+		<tag k="phone" v="+1 651 241 9600"/>
+		<tag k="phone" v="952-935-3696"/>
+		<tag k="phone" v="+16516332300"/>
+		<tag k="phone" v="+1 952 920 9595"/>
+		<tag k="phone" v="+1 952 9536459"/>
+		<tag k="phone" v="9529277933"/>
+		<tag k="shop" v="cell_phone"/>
+		<tag k="phone" v="7633836049"/>
+		<tag k="phone" v="+1 612 341-7555"/>
+		<tag k="contact:phone" v="+1 (952) 440-8845"/>
+		<tag k="phone" v="+1 612 377 2278"/>
+		<tag k="phone" v="952-746-SNAP"/>
+		<tag k="phone" v="6123389850"/>
+		<tag k="phone" v="9524179709"/>
+		<tag k="amenity" v="telephone"/>
+		<tag k="amenity" v="telephone"/>
+		<tag k="phone" v="(612) 823-0977"/>
+		<tag k="phone" v="612-823-0250"/>
+		<tag k="phone" v="+1 612 870 4466"/>
+		<tag k="shop" v="mobile_phone"/>
+		<tag k="phone" v="952-445-8500"/>
+		<tag k="phone" v="800-rent-a-car"/>
+		<tag k="phone" v="952-881-7878"/>
+		<tag k="phone" v="952-447-1599"/>
+		<tag k="phone" v="952-445-7172"/>
+		<tag k="phone" v="952-746-1006"/>
+		<tag k="phone" v="952-445-7167"/>
+		<tag k="phone" v="952-746-2525"/>
+		<tag k="phone" v="952-223-2169"/>
+		<tag k="phone" v="952-496-0000"/>
+		<tag k="phone" v="952-445-9200"/>
+		<tag k="phone" v="952-445-1055"/>
+		<tag k="phone" v="952-445-3263"/>
+		<tag k="phone" v="952-445-4163"/>
+		<tag k="phone" v="952-445-6220"/>
+		<tag k="phone" v="+1 763 551 9999"/>
+		<tag k="phone" v="651-699-5619"/>
+		<tag k="phone" v="715-386-9441"/>
+		<tag k="phone" v="651-423-4402"/>
+		<tag k="telephone" v="(952) 929-3764"/>
+		<tag k="phone" v="6126238155"/>
+		<tag k="phone" v="507-263-2754"/>
+		<tag k="phone" v="507-263-4433"/>
+		<tag k="phone" v="507-263-2307"/>
+		<tag k="phone" v="507-263-0316"/>
+		<tag k="phone" v="651-258-4327"/>
+		<tag k="phone" v="612-473-0283"/>
+		<tag k="phone" v="612-249-9976"/>
+		<tag k="shop" v="mobile_phone"/>
+		<tag k="phone" v="612-822-3334"/>
+		<tag k="phone" v="+1 612 823 4790"/>
+		<tag k="phone" v="651-428-6170"/>
+		<tag k="phone" v="763-544-7248"/>
+		<tag k="phone" v="6123313245"/>
+		<tag k="phone" v="(715) 377-7000"/>
+		<tag k="phone" v="+1 651 644 6778"/>
+		<tag k="phone" v="952-888-9200"/>
+		<tag k="phone" v="+16128727575"/>
+		<tag k="phone" v="651-437-6327"/>
+		<tag k="phone" v="651-437-9242"/>
+		<tag k="shop" v="mobile_phone"/>
+		<tag k="phone" v="+1 952 829 7141"/>
+		<tag k="phone" v="+1 952 941 0998"/>
+		<tag k="phone" v="+1 952 944 8646"/>
+		<tag k="phone" v="+1 952 941 9680"/>
+		<tag k="phone" v="+1 952 829 9532"/>
+		<tag k="phone" v="952-541-4865"/>
+		<tag k="phone" v="7634255941"/>
+		<tag k="phone" v="952-934-4545"/>
+		<tag k="phone" v="952-473-8577"/>
+		<tag k="name" v="Cellphone tower"/>
+		<tag k="shop" v="Mobile/Cellular Telephones"/>
+		<tag k="phone" v="651-222-7871"/>
+		<tag k="phone" v="651-224-2739"/>
+		<tag k="amenity" v="telephone"/>
+		<tag k="amenity" v="telephone"/>
+		<tag k="amenity" v="telephone"/>
+		<tag k="phone" v="6517651317"/>
+		<tag k="shop" v="mobile_phone"/>
+		<tag k="phone" v="612-374-8998"/>
+		<tag k="phone" v="651 414 9613"/>
+		<tag k="phone" v="(715) 381-0326"/>
+		<tag k="phone" v="+1-651-695-9200"/>
+		<tag k="phone" v="+1-651-470-0626"/>
+		<tag k="phone" v="+1-651-699-5600"/>
+		<tag k="phone" v="+1-651-698-8092"/>
+		<tag k="phone" v="+1-651-493-7269"/>
+		<tag k="phone" v="+1 612 225 6499"/>
+		<tag k="shop" v="mobile_phone"/>
+		<tag k="phone" v="612-378-3243"/>
+		<tag k="phone" v="612-636-3722"/>
+		<tag k="shop" v="mobile_phone"/>
+		<tag k="shop" v="mobile_phone"/>
+		<tag k="contact:phone" v="651-523-9300"/>
+		<tag k="phone" v="952-949-0000"/>
+		<tag k="phone" v="507-263-3050"/>
+		<tag k="phone" v="507-263-0848"/>
+		<tag k="phone" v="507-263-0007"/>
+		<tag k="phone" v="507-263-3624"/>
+		<tag k="phone" v="507-263-0630"/>
+		<tag k="amenity" v="telephone"/>
+		<tag k="phone" v="507-263-5142"/>
+		<tag k="contact:phone" v="651-645-8620"/>
+		<tag k="contact:phone" v="651-289-7375"/>
+		<tag k="amenity" v="telephone"/>
+		<tag k="phone" v="+1 651 699 1992"/>
+		<tag k="phone" v="+1 651 699 6839"/>
+		<tag k="phone" v="+1 651 228 0252"/>
+		<tag k="phone" v="+1 651 699 1833"/>
+		<tag k="contact:phone" v="7632694469"/>
+		<tag k="contact:phone" v="651-645-7703"/>
+		<tag k="phone" v="+1-651-351-8700"/>
+		<tag k="addr:housename" v="Telephone Building"/>
+		<tag k="phone" v="+1 612 869 9945"/>
+		<tag k="phone" v="+1 612 455 0452"/>
+		<tag k="phone" v="651-227-4337"/>
+		<tag k="phone" v="+16515522110"/>
+		<tag k="phone" v="651-457-3373"/>
+		<tag k="phone" v="+1 612-293-7339"/>
+		<tag k="phone" v="651-665-9000"/>
+		<tag k="phone" v="651-681-1658"/>
+		<tag k="phone" v="(612) 886-1670"/>
+		<tag k="amenity" v="telephone"/>
+		<tag k="phone" v="651-291-8800"/>
+		<tag k="phone" v="+16512915411"/>
+		<tag k="shop" v="mobile_phone"/>
+		<tag k="phone" v="+1 952 941 3614"/>
+		<tag k="phone" v="+16126597830"/>
+		<tag k="phone" v="+16123334646"/>
+		<tag k="phone" v="+16123386146"/>
+		<tag k="phone" v="+16123398696"/>
+		<tag k="phone" v="+16126761818"/>
+		<tag k="phone" v="+1 715 6297246"/>
+		<tag k="phone" v="+1 612.354.2806"/>
+		<tag k="phone" v="(952) 922-4200"/>
+		<tag k="phone" v="+1 763 432 7291"/>
+		<tag k="phone" v="16126267788"/>
+		<tag k="phone" v="16123382855"/>
+		<tag k="phone" v="16123394333"/>
+		<tag k="phone" v="16123390002"/>
+		<tag k="phone" v="+1 651 4389191"/>
+		<tag k="phone" v="+1 651 4378259"/>
+		<tag k="phone" v="+1 651 4380433"/>
+		<tag k="phone" v="+1 651 7680287"/>
+		<tag k="shop" v="mobile_phone"/>
+		<tag k="phone" v="+1 952 4354142"/>
+		<tag k="phone" v="+1 651 633 1271"/>
+		<tag k="phone" v="+1 651 631 8002"/>
+		<tag k="phone" v="+1 612 353 2161"/>
+		<tag k="phone" v="+1 952 881 0287"/>
+		<tag k="phone" v="+1 952 886 2900"/>
+		<tag k="phone" v="+1 952 881 2410"/>
+		<tag k="phone" v="612-333-6100"/>
+		<tag k="phone" v="+1 651 430-2362"/>
+		<tag k="phone" v="651-224-6000"/>
+		<tag k="phone" v="651-224-5153"/>
+		<tag k="phone" v="+1 612 874 6440"/>
+		<tag k="phone" v="651-621-8911"/>
+		<tag k="phone" v="651-493-9704"/>
+		<tag k="phone" v="651-293-9211"/>
+		<tag k="phone" v="+1 651 690 2307"/>
+		<tag k="phone" v="651-340-0583"/>
+		<tag k="phone" v="651-291-7939"/>
+		<tag k="phone" v="612-208-1450"/>
+		<tag k="phone" v="651-223-7979"/>
+		<tag k="phone" v="651-202-3153"/>
+		<tag k="phone" v="651-224-1377"/>
+		<tag k="phone" v="651-228-0673"/>
+		<tag k="shop" v="mobile_phone"/>
+		<tag k="phone" v="651-280-4120"/>
+		<tag k="phone" v="+1 612 721 6686"/>
+		<tag k="phone" v="(763) 231-4200"/>
+		<tag k="phone" v="+16123312127, +18007889808"/>
+		<tag k="phone" v="+16123790555"/>
+		<tag k="phone" v="+16512242354"/>
+		<tag k="phone" v="+16512225670"/>
+		<tag k="phone" v="+16512917005"/>
+		<tag k="phone" v="+1 952 835 8640"/>
+		<tag k="communication:mobile_phone" v="yes"/>
+		<tag k="shop" v="mobile_phone"/>
+		<tag k="phone" v="(612) 436-2236"/>
+		<tag k="phone" v="+1 612 787 7433"/>
+		<tag k="phone" v="612-824-4052"/>
+		<tag k="phone" v="+1 651 222 2516"/>
+		<tag k="phone" v="+16517389366"/>
+		<tag k="phone" v="+16516020560"/>
+		<tag k="phone" v="+16517772155"/>
+		<tag k="phone" v="+16512510306"/>
+		<tag k="phone" v="Toll Free: 800.473.4934 Main: 952.985.7200"/>
+		<tag k="phone" v="(715) 381-9661"/>
+		<tag k="phone" v="(651) 436-7400"/>
+		<tag k="phone" v="651-777-1607"/>
+		<tag k="phone" v="+1612823289"/>
+		<tag k="phone" v="+1 763 383 0888"/>
+		<tag k="phone" v="612 2081047"/>
+		<tag k="telephone" v="(612) 824-1717"/>
+		<tag k="phone" v="6516465756"/>
+		<tag k="phone" v="812-822-1545"/>
+		<tag k="telephone" v="612-824-1094"/>
+		<tag k="phone" v="612-545-5972"/>
+		<tag k="phone" v="+1 1-612-379-7669"/>
+		<tag k="phone" v="+1 (612) 331-1554"/>
+		<tag k="phone" v="+1 (763) 542-9922"/>
+		<tag k="telephone" v="(612) 922-4341"/>
+		<tag k="telephone" v="(612) 767-4411"/>
+		<tag k="telephone" v="(952) 920-1860"/>
+		<tag k="telephone" v="612-926-8161"/>
+		<tag k="phone" v="+1 651 3884747"/>
+		<tag k="phone" v="+1 952 358 9900"/>
+		<tag k="phone" v="762-424-1200"/>
+		<tag k="phone" v="6516992006"/>
+		<tag k="phone" v="+1 952 928 7888"/>
+		<tag k="phone" v="952-935-3419"/>
+		<tag k="shop" v="mobile_phone"/>
+		<tag k="phone" v="+1 651 631 9441"/>
+		<tag k="phone" v="+1 651 631 8430"/>
+		<tag k="contact:phone" v="763-559-2775"/>
+		<tag k="phone" v="763-559-2775"/>
+		<tag k="phone" v="+1 612 341 8007"/>
+		<tag k="contact:phone" v="+16128224611"/>
+		<tag k="phone" v="612.767.3354"/>
+		<tag k="phone" v="763-550-0043"/>
+		<tag k="phone" v="+1-651-999-9579"/>
+		<tag k="phone" v="+1-651-222-7827"/>
+		<tag k="phone" v="+16128727000"/>
+		<tag k="phone" v="+1 612 798 8800"/>
+		<tag k="phone" v="+1 651-452-0366"/>
+		<tag k="phone" v="+1 (651) 439-4287"/>
+		<tag k="amenity" v="telephone"/>
+		<tag k="amenity" v="telephone"/>
+		<tag k="phone" v="(952) 890-0804"/>
+		<tag k="phone" v="+1 952 8812425"/>
+		<tag k="phone" v="6122937526"/>
+		<tag k="phone" v="952-314-9077"/>
+		<tag k="phone" v="(800) 850-2335"/>
+		<tag k="phone" v="(651) 459-6666"/>
+		<tag k="phone" v="651-769-0282"/>
+		<tag k="phone" v="(651) 458-8932"/>
+		<tag k="phone" v="(651) 769-0601"/>
+		<tag k="phone" v="(651) 458-8080"/>
+		<tag k="phone" v="(651) 459-7485"/>
+		<tag k="phone" v="(651) 769-8918"/>
+		<tag k="phone" v="651.459.9877"/>
+		<tag k="phone" v="(651) 459-7663"/>
+		<tag k="phone" v="(651) 769-8887"/>
+		<tag k="phone" v="651-459-5575"/>
+		<tag k="phone" v="(651) 769-0313"/>
+		<tag k="phone" v="651.458.9463"/>
+		<tag k="phone" v="(651) 458-1111"/>
+		<tag k="phone" v="(651) 459-1100"/>
+		<tag k="phone" v="(651) 458-3000"/>
+		<tag k="phone" v="(651) 769-8355"/>
+		<tag k="phone" v="651-437-3613"/>
+		<tag k="phone" v="(651) 459-9119"/>
+		<tag k="phone" v="(651) 458-9898"/>
+		<tag k="phone" v="651-459-2040"/>
+		<tag k="phone" v="(651) 458-8971"/>
+		<tag k="phone" v="651-459-9553"/>
+		<tag k="phone" v="651.777.1400"/>
+		<tag k="phone" v="(952) 314-6341"/>
+		<tag k="phone" v="(651) 317-8895"/>
+		<tag k="phone" v="612-315-2399"/>
+		<tag k="phone" v="612-928-7894"/>
+		<tag k="contact:phone" v="+1 612 8720523"/>
+		<tag k="phone" v="(952)-440-3900"/>
+		<tag k="phone" v="(612) 758-0105"/>
+		<tag k="phone" v="763-210-2191"/>
+		<tag k="phone" v="(952) 473-7361"/>
+		<tag k="phone" v="651-777-1316"/>
+		<tag k="phone" v="(952) 881-6988"/>
+		<tag k="phone" v="+1 612 624 7591"/>
+		<tag k="phone" v="+1 (651) 636-4288"/>
+		<tag k="phone" v="+1 612 617 7793"/>
+		<tag k="phone" v="612.340.9738"/>
+		<tag k="phone" v="(612) 227-9635"/>
+		<tag k="phone" v="(612)-354-2453"/>
+		<tag k="phone" v="+1 651 776 1430"/>
+		<tag k="phone" v="651-999-1600"/>
+		<tag k="phone" v="763-428-2271"/>
+		<tag k="phone" v="+1 952 345 1145"/>
+		<tag k="phone" v="+1 952 893 5489"/>
+		<tag k="phone" v="+1 952 806 9961"/>
+		<tag k="phone" v="+1 952 831 3780"/>
+		<tag k="phone" v="+1 952 835 6440"/>
+		<tag k="phone" v="+1 952 831 0235"/>
+		<tag k="phone" v="+1 952 831 4077"/>
+		<tag k="phone" v="+1 612 963 2215"/>
+		<tag k="phone" v="+1 952 842 9251"/>
+		<tag k="phone" v="+1 612 844 2652"/>
+		<tag k="phone" v="651-917-6099"/>
+		<tag k="phone" v="612-378-2417"/>
+		<tag k="phone" v="+1 952 831 7666"/>
+		<tag k="phone" v="+1 952 835 7825"/>
+		<tag k="phone" v="+1 952 926 2696"/>
+		<tag k="phone" v="+1 952 915 1108"/>
+		<tag k="phone" v="+1 952 920 9980"/>
+		<tag k="phone" v="+1 952 920 4444"/>
+		<tag k="phone" v="+1 952 567 2700"/>
+		<tag k="phone" v="+1 952 925 1001"/>
+		<tag k="phone" v="+1 952 697 6000"/>
+		<tag k="phone" v="+1 952 426 1856"/>
+		<tag k="phone" v="+1 952 653 3333"/>
+		<tag k="phone" v="+1 952 928 9906"/>
+		<tag k="phone" v="+1 952 926 1713"/>
+		<tag k="phone" v="+1 952 595 5495"/>
+		<tag k="phone" v="+1 952 903 5730"/>
+		<tag k="phone" v="+1 952 893 9000"/>
+		<tag k="phone" v="+1 952 929 4734"/>
+		<tag k="phone" v="+1 952 926 6651"/>
+		<tag k="phone" v="+1 952 924 0344"/>
+		<tag k="shop" v="mobile_phone"/>
+		<tag k="phone" v="651-379-0037"/>
+		<tag k="phone" v="(612) 254-2700"/>
+		<tag k="phone" v="651-888-2168"/>
+		<tag k="phone" v="(651) 304-1920"/>
+		<tag k="phone" v="(763) 560-1148"/>
+		<tag k="phone" v="+17153866740"/>
+		<tag k="phone" v="+17153868228"/>
+		<tag k="phone" v="+17153865995"/>
+		<tag k="phone" v="+17153868123"/>
+		<tag k="phone" v="7634007888"/>
+		<tag k="phone" v="+1 612 325 0817"/>
+		<tag k="phone" v="+16122364962"/>
+		<tag k="phone" v="763.955.3656"/>
+		<tag k="phone" v="952.922.7600"/>
+		<tag k="phone" v="(763) 255-2900"/>
+		<tag k="phone" v="1-763-273-9049"/>
+		<tag k="phone" v="1-800-424-6589"/>
+		<tag k="phone" v="763.416.1700"/>
+		<tag k="phone" v="763-391-6664"/>
+		<tag k="phone" v="763-494-0045"/>
+		<tag k="phone" v="612-770-1311"/>
+		<tag k="contact:phone" v="612-746-5064"/>
+		<tag k="contact:phone" v="651-366-6858"/>
+		<tag k="phone" v="+1 612 822 0613"/>
+		<tag k="phone" v="+1 952 922 2530"/>
+		<tag k="phone" v="+16128863906"/>
+		<tag k="phone" v="+19523227671"/>
+		<tag k="phone" v="763-486-5359"/>
+		<tag k="phone" v="763 535-8765"/>
+		<tag k="phone" v="(651) 647-1083"/>
+		<tag k="contact:phone" v="651-340-1432"/>
+		<tag k="phone" v="763-370-8560"/>
+		<tag k="phone" v="612-532-9996"/>
+		<tag k="phone" v="612.810.4040"/>
+		<tag k="phone" v="+1 (952) 938-2847"/>
+		<tag k="phone" v="+1 612 861-1000"/>
+		<tag k="phone" v="+1 612 332-4700"/>
+		<tag k="phone" v="+16122063356"/>
+		<tag k="phone" v="+18889991077"/>
+		<tag k="phone" v="+16122383593"/>
+		<tag k="phone" v="+19528357800"/>
+		<tag k="phone" v="+19528351900"/>
+		<tag k="phone" v="+19528318000"/>
+		<tag k="phone" v="+1 612 333 2606"/>
+		<tag k="phone" v="952-943-1441"/>
+		<tag k="phone" v="763-427-0044"/>
+		<tag k="phone" v="+1 612 727 2677"/>
+		<tag k="phone" v="763-425-6505"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="contact:phone" v="+1 612 377 3734"/>
+		<tag k="phone" v="+1 612 345 4348"/>
+		<tag k="phone" v="(612) 332-4393"/>
+		<tag k="phone" v="(952) 938-8163"/>
+		<tag k="phone" v="+1 877 884 7463"/>
+		<tag k="phone" v="507-263-4784"/>
+		<tag k="phone" v="507-263-5400"/>
+		<tag k="phone" v="507-263-8828"/>
+		<tag k="phone" v="507-263-5410"/>
+		<tag k="phone" v="(612) 338-8401"/>
+		<tag k="phone" v="507-263-6000"/>
+		<tag k="phone" v="+1 612.920.6344"/>
+		<tag k="phone" v="+17158088004"/>
+		<tag k="phone" v="+17155311555"/>
+		<tag k="phone" v="+1 952 920 9066"/>
+		<tag k="phone" v="+1 612 861 7570"/>
+		<tag k="phone" v="+1 612 886 7042"/>
+		<tag k="phone" v="+1 612 866 8425"/>
+		<tag k="phone" v="+1 612 866 6363"/>
+		<tag k="phone" v="+1 612 869 2207"/>
+		<tag k="phone" v="+1 952 831 3601"/>
+		<tag k="phone" v="+1 952 831 0288"/>
+		<tag k="phone" v="+1 952 848 8300"/>
+		<tag k="phone" v="+1 952 926 3669"/>
+		<tag k="phone" v="+1 952 920 1142"/>
+		<tag k="phone" v="+1 612 348 2040"/>
+		<tag k="phone" v="+1 612 543 5900"/>
+		<tag k="phone" v="+1 651 379 3801"/>
+		<tag k="phone" v="651-429-1GNC"/>
+		<tag k="phone" v="763-571-3267"/>
+		<tag k="phone" v="(612) 238-3719"/>
+		<tag k="phone" v="7635712009"/>
+		<tag k="phone" v="+1 952 831 0337"/>
+		<tag k="phone" v="+1 952 703 0443"/>
+		<tag k="phone" v="+1 952 885 9985"/>
+		<tag k="phone" v="+1 952 884 7186"/>
+		<tag k="phone" v="+1 952 884 6896"/>
+		<tag k="phone" v="+1 952 881 8845"/>
+		<tag k="phone" v="+1 952 881 5509"/>
+		<tag k="phone" v="1+ 952 252 1154"/>
+		<tag k="phone" v="+1 952 229 8400"/>
+		<tag k="phone" v="+1 952 888 1504"/>
+		<tag k="phone" v="+1 651-414-6216"/>
+		<tag k="phone" v="+1 (763) 390-3647"/>
+		<tag k="phone" v="+1 952 806 9772"/>
+		<tag k="phone" v="+1 952 831 1914"/>
+		<tag k="phone" v="+1 952 893 0141"/>
+		<tag k="phone" v="+1 952 831 0021"/>
+		<tag k="phone" v="+1 952 835 1571"/>
+		<tag k="phone" v="651 222-8380"/>
+		<tag k="phone" v="+1 612 676 1947"/>
+		<tag k="phone" v="+1 612 866 4981"/>
+		<tag k="phone" v="612-208-6189"/>
+		<tag k="phone" v="+1 612 345 7961"/>
+		<tag k="phone" v="+1 612 377 6108"/>
+		<tag k="phone" v="+1 763 535 4545"/>
+		<tag k="phone" v="612-254-6300"/>
+		<tag k="phone" v="952-380-2200"/>
+		<tag k="phone" v="+1 612 724 4272"/>
+		<tag k="phone" v="+1 877 637 0450"/>
+		<tag k="phone" v="+1 612 922 1130"/>
+		<tag k="phone" v="+1 952 277 3504"/>
+		<tag k="phone" v="+1 952 232 5610"/>
+		<tag k="phone" v="+1 952 583 2835"/>
+		<tag k="phone" v="+1 952 314 8253"/>
+		<tag k="phone" v="+1 952 920 9988"/>
+		<tag k="phone" v="+1 952 924 6727"/>
+		<tag k="phone" v="+1 952 921 2255"/>
+		<tag k="phone" v="+1 952 896 8888"/>
+		<tag k="phone" v="+1 952 893 9600"/>
+		<tag k="phone" v="+ 952 767 6844"/>
+		<tag k="phone" v="+1 763 253 2010"/>
+		<tag k="phone" v="+1 763 559 7334"/>
+		<tag k="phone" v="+1 763 355 5064"/>
+		<tag k="phone" v="+1 763 559 6968"/>
+		<tag k="phone" v="+1 763 447 4014"/>
+		<tag k="phone" v="+1 763 568 7756"/>
+		<tag k="shop" v="mobile_phone"/>
+		<tag k="shop" v="mobile_phone"/>
+		<tag k="phone" v="+1 612 721 3141"/>
+		<tag k="phone" v="+1 612 345 4664"/>
+		<tag k="phone" v="+1 612 332 0880"/>
+		<tag k="phone" v="763-417-8200"/>
+		<tag k="phone" v="+17637844747"/>
+		<tag k="phone" v="+17635154650"/>
+		<tag k="phone" v="+16517668888"/>
+		<tag k="phone" v="+16512596200"/>
+		<tag k="phone" v="(651) 846-2831"/>
+		<tag k="phone" v="+1 612 824 2040"/>
+		<tag k="phone" v="+1 952 758 8880"/>
+		<tag k="phone" v="+1 651 698 5000"/>
+		<tag k="phone" v="+1 612 455 6688"/>
+		<tag k="phone" v="+1 612 371 9565"/>
+		<tag k="phone" v="+1 612 886 1793"/>
+		<tag k="phone" v="651-410-1050"/>
+		<tag k="phone" v="+1 612 354 2130"/>
+		<tag k="phone" v="+1 612 767 9495"/>
+		<tag k="phone" v="+1 612-259-8943"/>
+		<tag k="phone" v="+16127884778"/>
+		<tag k="phone" v="612-673-4000"/>
+		<tag k="phone" v="+1 612 721 2245"/>
+		<tag k="phone" v="+1 651 353 7075"/>
+		<tag k="phone" v="763-427-0044"/>
+		<tag k="phone" v="+16123155946"/>
+		<tag k="phone" v="+16123996258"/>
+		<tag k="phone" v="(612) 341-2112"/>
+		<tag k="phone" v="+1 612 722 2500"/>
+		<tag k="phone" v="+1 612 729 9095"/>
+		<tag k="phone" v="651-330-3469"/>
+		<tag k="phone" v="651-222-0775"/>
+		<tag k="phone" v="+1 612 872 2323"/>
+		<tag k="phone" v="+1 651 756 7287"/>
+		<tag k="phone" v="(651) 962-6150"/>
+		<tag k="phone" v="+1 612 677 1100"/>
+		<tag k="phone" v="+1 612 348 3000"/>
+		<tag k="phone" v="+1 763 694 7707"/>
+		<tag k="phone" v="+1 952 835 8308"/>
+		<tag k="phone" v="16123318100"/>
+		<tag k="phone" v="16123318100"/>
+		<tag k="phone" v="(952) 941-7650"/>
+		<tag k="telephone" v="612-353-4554"/>
+		<tag k="phone" v="+1 612 379 2368"/>
+		<tag k="contact:phone" v="612-333-8900"/>
+		<tag k="phone" v="952-403-1620"/>
+		<tag k="phone" v="+1 952 925 7874"/>
+		<tag k="phone" v="+1 952 888 7701"/>
+		<tag k="phone" v="+1 612 204 5000"/>
+		<tag k="phone" v="+1 612 375 2200"/>
+		<tag k="phone" v="952-934-9106"/>
+		<tag k="phone" v="952-697-6727"/>
+		<tag k="phone" v="952-445-8013"/>
+		<tag k="phone" v="+1 952 544 0675"/>
+		<tag k="phone" v="952-546-5474"/>
+		<tag k="contact:phone" v="612-725-2000"/>
+		<tag k="phone" v="+1 763 694 7860"/>
+		<tag k="phone" v="+1 763 694 7650"/>
+		<tag k="phone" v="+1 763 694 7754"/>
+		<tag k="phone" v="+1 763 559 6700"/>
+		<tag k="phone" v="+1 763 694 7687"/>
+		<tag k="phone" v="+1 763 694 7777"/>
+		<tag k="phone" v="+1 763 694 7764"/>
+		<tag k="phone" v="+1 763 694 7687"/>
+		<tag k="phone" v="+1 763 694 7860"/>
+		<tag k="phone" v="+1 763 694 7860"/>
+		<tag k="phone" v="+1 763 694 7894"/>
+		<tag k="phone" v="+1 763 694 7818"/>
+		<tag k="phone" v="+1 763 694 7750"/>
+		<tag k="phone" v="+1 763 694 7695"/>
+		<tag k="phone" v="+1 763 694 7693"/>
+		<tag k="phone" v="+1 763 694 7790"/>
+		<tag k="phone" v="+1 763 694 7790"/>
+		<tag k="phone" v="+1 763 694 7790"/>
+		<tag k="phone" v="952949CARS"/>
+		<tag k="phone" v="+1 612-501-9208"/>
+		<tag k="phone" v="+1 612 871 5303"/>
+		<tag k="phone" v="+1 612 371 5656"/>
+		<tag k="phone" v="+1 763 694 7777"/>
+		<tag k="phone" v="+1 612 673 4000"/>
+		<tag k="phone" v="612-752-7000"/>
+		<tag k="phone" v="+1 612 375 7600"/>
+		<tag k="contact:phone" v="+1 612 332 3651"/>
+		<tag k="phone" v="651-224-5400"/>
+		<tag k="phone" v="(715) 386-8650"/>
+		<tag k="phone" v="(715) 386-7155"/>
+		<tag k="phone" v="(715) 386-9226"/>
+		<tag k="phone" v="+1 952 920 3561"/>
+		<tag k="phone" v="+1 952 920 0126"/>
+		<tag k="phone" v="+1 952 884 9400"/>
+		<tag k="phone" v="+1 952 925 4610"/>
+		<tag k="phone" v="+1 952 896 2160"/>
+		<tag k="phone" v="+1 952 830 3500"/>
+		<tag k="phone" v="+1 612 861 1881"/>
+		<tag k="phone" v="+1 612 866 3040"/>
+		<tag k="phone" v="+1 651 642 0411"/>
+		<tag k="phone" v="651-645-3058"/>
+		<tag k="phone" v="651-646-7173"/>
+		<tag k="phone" v="+1 612 668 4300"/>
+		<tag k="phone" v="763-421-2622"/>
+		<tag k="phone" v="763-553-3099"/>
+		<tag k="phone" v="763-421-2728"/>
+		<tag k="phone" v="+1 952 285 8393"/>
+		<tag k="phone" v="+1 612 276 3026"/>
+		<tag k="phone" v="952-380-0303"/>
+		<tag k="phone" v="952-829-8400"/>
+		<tag k="phone" v="+1 612 235 4831"/>
+		<tag k="phone" v="651-452-2226"/>
+		<tag k="contact:phone" v="6127291421"/>
+		<tag k="contact:phone" v="+1 (952) 445-2245"/>
+		<tag k="phone" v="+1 612 729 0034"/>
+		<tag k="phone" v="+1 612 722 8602"/>
+		<tag k="phone" v="612-333-2293"/>
+		<tag k="phone" v="+1 612 339-6633"/>
+		<tag k="phone" v="+1 952 542 8600"/>
+		<tag k="phone" v="763-656-1500"/>
+		<tag k="contact:phone" v="6127292265"/>
+		<tag k="telephone" v="(612) 332-7481"/>
+		<tag k="contact:phone" v="6123783246"/>
+		<tag k="phone" v="612-436-1470"/>
+		<tag k="contact:phone" v="6129227109"/>
+		<tag k="phone" v="952-935-2425"/>
+		<tag k="phone" v="+1 612 338 3000"/>
+		<tag k="contact:phone" v="6123331780"/>
+		<tag k="phone" v="+1 612 332 1011"/>
+		<tag k="phone" v="+1 612 236 4831"/>
+		<tag k="phone" v="800-44STORE"/>
+		<tag k="contact:phone" v="6123330948"/>
+		<tag k="phone" v="+1 612 321 0100"/>
+		<tag k="contact:phone" v="6123313577"/>
+		<tag k="contact:phone" v="+1 (651) 631-1510"/>
+		<tag k="phone" v="+1 612 821 9045"/>
+		<tag k="contact:phone" v="6128244703"/>
+		<tag k="phone" v="9528548700"/>
+		<tag k="phone" v="+1 612 870 7800"/>
+		<tag k="store" v="cell phone"/>
+		<tag k="phone" v="52-476-1717"/>
+		<tag k="phone" v="952-476-1717"/>
+		<tag k="phone" v="+1 612 767 9009"/>
+		<tag k="phone" v="1-612-668-3180"/>
+		<tag k="phone" v="+1 612 543 8375"/>
+		<tag k="phone" v="+1 952 942 8530"/>
+		<tag k="phone" v="+1 952 944 8388"/>
+		<tag k="phone" v="952-835-5298"/>
+		<tag k="phone" v="+1 952 948 1855"/>
+		<tag k="phone" v="+1 952 888 3428"/>
+		<tag k="phone" v="+1 952 888 0488"/>
+		<tag k="phone" v="+1 952 884 3633"/>
+		<tag k="phone" v="+1 952 881 8861"/>
+		<tag k="phone" v="+1 612 379 0838"/>
+		<tag k="phone" v="612-673-5703"/>
+		<tag k="phone" v="+1 612 728 8300"/>
+		<tag k="phone" v="+1 612 721 3011"/>
+		<tag k="phone" v="+1-651-454-1030"/>
+		<tag k="phone" v="651-690-9363"/>
+		<tag k="phone" v="+1 651 698 8866"/>
+		<tag k="phone" v="651-690-5110"/>
+		<tag k="phone" v="651-698-0556"/>
+		<tag k="phone" v="612-543-6800"/>
+		<tag k="phone" v="612-721-5768"/>
+		<tag k="phone" v="651-265-7800"/>
+		<tag k="phone" v="651-690-0507"/>
+		<tag k="phone" v="612-673-5704"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="phone" v="+1 612 722 4688"/>
+		<tag k="phone" v="763-420-8282"/>
+		<tag k="contact:phone" v="6127215061"/>
+		<tag k="phone" v="+1 612 861 9365"/>
+		<tag k="phone" v="+16128256844"/>
+		<tag k="phone" v="952-641-1370"/>
+		<tag k="shop" v="mobile_phone"/>
+		<tag k="phone" v="(715) 386-5504"/>
+		<tag k="phone" v="715-386-6326"/>
+		<tag k="phone" v="715-386-2918"/>
+		<tag k="phone" v="715-386-9900"/>
+		<tag k="phone" v="+1 612 922 1159"/>
+		<tag k="phone" v="952-926-3808"/>
+		<tag k="phone" v="952-567-7800"/>
+		<tag k="phone" v="6514802080"/>
+		<tag k="phone" v="+1 952 767 2972"/>
+		<tag k="phone" v="952-835-2222"/>
+		<tag k="phone" v="952-835-2222"/>
+		<tag k="phone" v="(715) 381-1413"/>
+		<tag k="phone" v="(715) 377-0741"/>
+		<tag k="phone" v="+1-651-690-3297"/>
+		<tag k="phone" v="715-381-0469"/>
+		<tag k="phone" v="+1 612 825 7422"/>
+		<tag k="phone" v="952-943-4600"/>
+		<tag k="phone" v="651-698-0259"/>
+		<tag k="phone" v="+1 612 339 4444"/>
+		<tag k="contact:phone" v="+1 612 886 2377"/>
+		<tag k="phone" v="612-377-6608"/>
+		<tag k="phone" v="763-576-3000"/>
+		<tag k="phone" v="+1 612 455 7500"/>
+		<tag k="phone" v="763-488-6497"/>
+		<tag k="phone" v="+1 800 688 8057"/>
+		<tag k="phone" v="+1 952 835 2567"/>
+		<tag k="phone" v="+1 952 941 2400"/>
+		<tag k="phone" v="+1 952 835 3810"/>
+		<tag k="phone" v="+1 952 830 1253"/>
+		<tag k="phone" v="+1 952 941 2400"/>
+		<tag k="phone" v="+1 952 831 1911"/>
+		<tag k="phone" v="+1 800 543 2165"/>
+		<tag k="phone" v="952-431-9000"/>
+		<tag k="phone" v="715/386-5409"/>
+		<tag k="phone" v="+1 612 813 8300"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="phone" v="715-425-7253"/>
+		<tag k="phone" v="651-962-6825"/>
+		<tag k="phone" v="(715) 531-1416"/>
+		<tag k="phone" v="+1 651 621 6800"/>
+		<tag k="phone" v="952-432-6161"/>
+		<tag k="phone" v="+1 612 377 2224"/>
+		<tag k="phone" v="651-647-1288"/>
+		<tag k="phone" v="651-644-1444"/>
+		<tag k="phone" v="+1 651 646 7087"/>
+		<tag k="contact:phone" v="612-721-6433"/>
+		<tag k="contact:phone" v="6513791198"/>
+		<tag k="phone" v="+19527072100"/>
+		<tag k="phone" v="763-576-3000"/>
+		<tag k="phone" v="651-298-1000"/>
+		<tag k="phone" v="651-291-1116"/>
+		<tag k="contact:phone" v="6127229600"/>
+		<tag k="contact:phone" v="6128224942"/>
+		<tag k="phone" v="+1 651 224 0341"/>
+		<tag k="phone" v="+1 651 224 6726"/>
+		<tag k="contact:phone" v="6123324287"/>
+		<tag k="phone" v="6127214565"/>
+		<tag k="phone" v="1-952-854-2100"/>
+		<tag k="phone" v="+1-612-843-5090"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="phone" v="800-394-4225"/>
+		<tag k="phone" v="507-263-9234"/>
+		<tag k="phone" v="507-263-4777"/>
+		<tag k="phone" v="507-263-5888"/>
+		<tag k="phone" v="507-263-2251"/>
+		<tag k="phone" v="507-263-4532"/>
+		<tag k="phone" v="507-263-4129"/>
+		<tag k="phone" v="507-263-4496"/>
+		<tag k="phone" v="507-263-0352"/>
+		<tag k="phone" v="507-263-4238"/>
+		<tag k="phone" v="507-263-2240"/>
+		<tag k="phone" v="507-263-4420"/>
+		<tag k="phone" v="507-263-7373"/>
+		<tag k="phone" v="507-263-8212"/>
+		<tag k="phone" v="507-263-0530"/>
+		<tag k="phone" v="507-263-4246"/>
+		<tag k="phone" v="507-263-4001"/>
+		<tag k="phone" v="507-263-7930"/>
+		<tag k="phone" v="507-263-7604"/>
+		<tag k="phone" v="507-263-2661"/>
+		<tag k="phone" v="507-263-3274"/>
+		<tag k="phone" v="507-263-3600"/>
+		<tag k="phone" v="507-263-5066"/>
+		<tag k="phone" v="507-263-8212"/>
+		<tag k="shop" v="mobile_phone"/>
+		<tag k="phone" v="+1-651-439-6981"/>
+		<tag k="phone" v="651-439-7979"/>
+		<tag k="contact:phone" v="612-337-0374"/>
+		<tag k="contact:phone" v="1-877-838-6757"/>
+		<tag k="phone" v="+1 763 694 7777"/>
+		<tag k="emergency" v="phone"/>
+		<tag k="phone" v="952-431-9000"/>
+		<tag k="contact:phone" v="6128748691"/>
+		<tag k="phone" v="(651) 645-2808"/>
+		<tag k="phone" v="+1 612 339 3023"/>
+		<tag k="phone" v="(715) 377-0300"/>
+		<tag k="phone" v="+18004242932"/>
+		<tag k="phone" v="+17153860003"/>
+		<tag k="phone" v="651-646-9179"/>
+		<tag k="phone" v="(715)-386-9291"/>
+		<tag k="phone" v="+1 612 376 8000"/>
+		<tag k="contact:phone" v="6123794481"/>
+		<tag k="phone" v="952-854-4733"/>
+		<tag k="contact:phone" v="6125222014"/>
+		<tag k="contact:phone" v="+1 651 649 5992"/>
+		<tag k="contact:phone" v="6125223971"/>
+		<tag k="contact:phone" v="6129220019"/>
+		<tag k="phone" v="612-722-0811"/>
+		<tag k="contact:phone" v="+1 612 775 4900"/>
+		<tag k="phone" v="+1 612 772 1000"/>
+		<tag k="phone" v="651-437-7107"/>
+		<tag k="phone" v="+1 952 881 5258"/>
+		<tag k="phone" v="952-933-6300"/>
+		<tag k="phone" v="+1 612 668 4800"/>
+		<tag k="phone" v="+1 763 694 7784"/>
+		<tag k="phone" v="(715) 386-4199"/>
+		<tag k="phone" v="651-730-8886"/>
+		<tag k="phone" v="+1 612 874 8867"/>
+		<tag k="phone" v="+1 952 8927555"/>
+		<tag k="phone" v="651.770.8000"/>
+		<tag k="phone" v="715-377-4699"/>
+		<tag k="phone" v="+1 763 694 7676"/>
+		<tag k="phone" v="952-892-5050"/>
+		<tag k="phone" v="(651) 452-1936"/>
+		<tag k="phone" v="651-224-1191"/>
+		<tag k="phone" v="952.873.7300"/>
+		<tag k="phone" v="952- 882-9343"/>
+		<tag k="phone" v="651-748-1688"/>
+		<tag k="phone" v="612-782-3883"/>
+		<tag k="phone" v="(952) 435-2552"/>
+		<tag k="phone" v=" (952) 985-5324"/>
+		<tag k="phone" v="(651) 459-8240"/>
+		<tag k="phone" v="+1 952 831 8833"/>
+		<tag k="phone" v="+1 952 835 3833"/>
+		<tag k="phone" v="+1 612 866 9987"/>
+		<tag k="phone" v="+1 952 841 1000"/>
+		<tag k="phone" v="(651) 452-8329"/>
+		<tag k="phone" v="(651) 436-6946"/>
+		<tag k="phone" v="(651) 423-2429"/>
+		<tag k="phone" v="(651) 455-7249"/>
+		<tag k="phone" v="+1 952 4324471"/>
+		<tag k="phone" v="+1 952 831 1446"/>
+		<tag k="phone" v="+1 952 835 4320"/>
+		<tag k="phone" v="+1 952 888 8102"/>
+		<tag k="phone" v="(651) 438-9700"/>
+		<tag k="phone" v="651-437-2046"/>
+		<tag k="phone" v="(952) 447-2272"/>
+		<tag k="phone" v="6517682300"/>
+		<tag k="phone" v="+17153770978"/>
+		<tag k="phone" v="651-290-4160"/>
+		<tag k="contact:phone" v="+1 952 924-2540"/>
+		<tag k="phone" v="+16126256699"/>
+		<tag k="phone" v="507-384-9075"/>
+		<tag k="phone" v="+1 651 621 7600"/>
+		<tag k="phone" v="+1 651 621 6600"/>
+		<tag k="phone" v="+1 651 714 4800"/>
+		<tag k="phone" v="+1 763 786 1800"/>
+		<tag k="phone" v="+1 651 636 2277"/>
+		<tag k="phone" v="+1 763 421 6850"/>
+		<tag k="contact:phone" v="+1 855 529 6714"/>
+		<tag k="phone" v="651-388-9524"/>
+		<tag k="phone" v="+16512280506"/>
+		<tag k="phone" v="612-239-3155"/>
+		<tag k="phone" v="+1 952 835 4464"/>
+		<tag k="phone" v="+1 952 929 1680"/>
+		<tag k="phone" v="+1  952 567 5000"/>
+		<tag k="phone" v="+1 612 822 4769"/>
+		<tag k="phone" v="715-377-7981"/>
+		<tag k="phone" v="715-377-1111"/>
+		<tag k="shop" v="mobile_phone"/>
+		<tag k="phone" v="+16123320391"/>
+		<tag k="phone" v="+16123337053"/>
+		<tag k="phone" v="+1 612 543 8000"/>
+		<tag k="phone" v="651-228-9347"/>
+		<tag k="phone" v="(715) 386-8650"/>
+		<tag k="phone" v="763-745-6200"/>
+		<tag k="phone" v="715-381-8254"/>
+		<tag k="phone" v="651-459-2040"/>
+		<tag k="phone" v="952-431-9000"/>
+		<tag k="phone" v="612-870-0723"/>
+		<tag k="phone" v="612 625 3222"/>
+		<tag k="phone" v="952-447-8511"/>
+		<tag k="phone" v="952 440 2755"/>
+		<tag k="phone" v="+16126262400"/>
+		<tag k="phone" v="952.955.9965"/>
+		<tag k="phone" v="(763) 535-3330"/>
+		<tag k="phone" v="(952) 941-3481"/>
+		<tag k="phone" v="(952) 937-2603"/>
+		<tag k="phone" v="(612) 354-5927"/>
+		<tag k="phone" v="+1 952 835 7203"/>
+		<tag k="phone" v="651-501-6321"/>
+		<tag k="phone" v="715.381.9866"/>
+		<tag k="phone" v="+17153862545"/>
+		<tag k="phone" v="+17153865333"/>
+		<tag k="phone" v="+1 952 737 7820"/>
+		<tag k="phone" v="+1 952 844 0084"/>
+		<tag k="phone" v="651 430 3385"/>
+		<tag k="phone" v="+1 952 758 5522"/>
+		<tag k="phone" v="+1 952 758 2424"/>
+		<tag k="phone" v="+1 800 400 4683"/>
+		<tag k="phone" v="+1 612 822 3121"/>
+		<tag k="phone" v="651 436 8691"/>
+		<tag k="phone" v="651 436 6146"/>
+		<tag k="phone" v="651 436 8874"/>
+		<tag k="phone" v="651-439-1234"/>
+		<tag k="phone" v="(763)494-0117"/>
+		<tag k="phone" v="(763) 447-2506"/>
+		<tag k="phone" v="763-581-1000"/>
+		<tag k="phone" v="+17153864030"/>
+		<tag k="phone" v="(715) 381-0099"/>
+		<tag k="phone" v="+1-651-439-1880"/>
+		<tag k="phone" v="1-612-668-3180"/>
+		<tag k="phone" v="+1(952)-888-2705"/>
+		<tag k="phone" v="952-758-3349"/>
+		<tag k="phone" v="952-758-6444"/>
+		<tag k="contact:phone" v="952-758-7825"/>
+		<tag k="phone" v="+1 763 694 2001"/>
+		<tag k="phone" v="+1 952 831 8855"/>
+		<tag k="phone" v="+1 612 822 5411"/>
+		<tag k="phone" v="952-947-0000"/>
+		<tag k="phone" v="+16517792700"/>
+		<tag k="phone" v="715-247-3673"/>
+		<tag k="phone" v="715-425-9781"/>
+		<tag k="phone" v="715-294-3673"/>
+		<tag k="phone" v="715-246-6724"/>
+		<tag k="phone" v="715-246-6724"/>
+		<tag k="contact:phone" v="651-645-2160"/>
+		<tag k="phone" v="+17158088397"/>
+		<tag k="phone" v="763-571-3267"/>
+		<tag k="phone" v="612-789-2484"/>
+		<tag k="phone" v="(952) 888-4262"/>
+		<tag k="phone" v="651-439-7276"/>
+		<tag k="phone" v="+1 763 694 7824"/>
+		<tag k="phone" v="651-770-2301"/>
+		<tag k="phone" v="651-439-7862"/>
+		<tag k="phone" v="651-438-2121"/>
+		<tag k="phone" v="651-439-0212"/>
+		<tag k="phone" v="651-436-4653"/>
+		<tag k="phone" v="651-733-3466"/>
+		<tag k="phone" v="952-929-3815"/>
+		<tag k="phone" v="+1 952 884 4811"/>
+		<tag k="phone" v="+1 888 850 0097"/>
+		<tag k="phone" v="651-209-6320"/>
+		<tag k="phone" v="507-263-7272"/>
+		<tag k="phone" v="507-263-3965"/>
+		<tag k="phone" v="507-263-3949"/>
+		<tag k="phone" v="507-263-3925"/>
+		<tag k="phone" v="507-263-2014"/>
+		<tag k="phone" v="507-263-4658"/>
+		<tag k="phone" v="763-486-5359"/>
+		<tag k="phone" v="+1 952 253 1234"/>
+		<tag k="phone" v="651-227-1039"/>
+		<tag k="phone" v="+1 952 831 3601"/>
+		<tag k="phone" v="+1 612 861 7471"/>
+		<tag k="phone" v="+1 612 866 3011"/>
+		<tag k="phone" v="+1 952 835 2567"/>
+		<tag k="phone" v="+1 952 921 3300"/>
+		<tag k="phone" v="+1 952 848 8300"/>
+		<tag k="phone" v="+1 952 925 3130"/>
+		<tag k="phone" v="+1 952 253 0235"/>
+		<tag k="phone" v="+1 952 835 8351"/>
+		<tag k="phone" v="+1 952 898 6700"/>
+		<tag k="phone" v="+1 952 831 3372"/>
+		<tag k="phone" v="+1  952 831 8325"/>
+		<tag k="phone" v="+1 952 835 1010"/>
+		<tag k="shop" v="mobile_phone"/>
+		<tag k="phone" v="+1 877 712 9833"/>
+		<tag k="phone" v="+1 952 893 9300"/>
+		<tag k="phone" v="+1 952 831 8742"/>
+		<tag k="phone" v="+1 952 955 8137"/>
+		<tag k="phone" v="+1 952 767 6557"/>
+		<tag k="phone" v="+1 952 426 3787"/>
+		<tag k="phone" v="+1 952 835 3388"/>
+		<tag k="phone" v="+1 952 941 2400"/>
+		<tag k="phone" v="+1 952 300 0070"/>
+		<tag k="phone" v="+1 952 831 1911"/>
+		<tag k="phone" v="+1 952 831 1911"/>
+		<tag k="phone" v="+17155316000"/>
+		<tag k="phone" v="+1 612 668 3210"/>
+		<tag k="phone" v="+1 952 893 1893"/>
+		<tag k="phone" v="+1 612 767 8603"/>
+		<tag k="phone" v="+1 800 275 8777"/>
+		<tag k="phone" v="+1 612 861 1186"/>
+		<tag k="phone" v="+1 612 866 7884"/>
+		<tag k="phone" v="+1 612 866 5053"/>
+		<tag k="phone" v="+1 612 861 1697"/>
+		<tag k="phone" v="+1 612 869 4246"/>
+		<tag k="phone" v="+1 612 861 8941"/>
+		<tag k="phone" v="+1 612 861 1688"/>
+		<tag k="phone" v="+1 612 866 8707"/>
+		<tag k="phone" v="+1 612 861 9550"/>
+		<tag k="phone" v="+1 612 861 9380"/>
+		<tag k="phone" v="+1 612 866 3324"/>
+		<tag k="phone" v="+1 612 861 2644"/>
+		<tag k="phone" v="+1 612 869 4040"/>
+		<tag k="phone" v="+1 612 866 7540"/>
+		<tag k="phone" v="+1 612 866 5311"/>
+		<tag k="phone" v="(612) 789-7238"/>
+		<tag k="phone" v="(612) 789-8851"/>
+		<tag k="phone" v="651-437-0328"/>
+		<tag k="phone" v="+1 612 333 1339"/>
+		<tag k="phone" v="763-509-0909"/>
+		<tag k="phone" v="763-767-9000"/>
+		<tag k="phone" v="+1 763 694 7777"/>
+		<tag k="phone" v="+1 763 694 7754"/>
+		<tag k="phone" v="+1 612 722 8343"/>
+		<tag k="phone" v="+1 612-924-0809"/>
+		<tag k="phone" v="952-985-8800"/>
+		<tag k="phone" v="952-985-8800"/>
+		<tag k="phone" v="651-688-3000"/>
+		<tag k="phone" v="651-730-6000"/>
+		<tag k="phone" v="952-593-3900"/>
+		<tag k="phone" v="651-426-1308"/>
+		<tag k="phone" v="952-226-1222"/>
+		<tag k="phone" v="+1 952 358 6100"/>
+		<tag k="phone" v="+1 952 835 7476"/>
+		<tag k="phone" v="+1 952 835 6643"/>
+		<tag k="phone" v="+1 952 835 1191"/>
+		<tag k="phone" v="+1 952 893 9500"/>
+		<tag k="phone" v="+1 952 831 4044"/>
+		<tag k="phone" v="+1 952 314 1390"/>
+		<tag k="phone" v="+1 612 294 0220"/>
+		<tag k="phone" v="+1 952 831 9595"/>
+		<tag k="phone" v="+1 952 830 1300"/>
+		<tag k="phone" v="+1 952 831 1012"/>
+		<tag k="phone" v="952-380-0303"/>
+		<tag k="phone" v="952-380-0303"/>
+		<tag k="phone" v="+1 952 831 7900"/>
+		<tag k="phone" v="+1 612 722 6612 "/>
+		<tag k="phone" v="+1 763 268 0400"/>
+		<tag k="phone" v="+1 763 551 1215"/>
+		<tag k="phone" v="+1 763 515 2158"/>
+		<tag k="phone" v="+1 763 509 9500"/>
+		<tag k="phone" v="+1 763 559 3059"/>
+		<tag k="phone" v="651-730-6000"/>
+		<tag k="phone" v="651-730-6000"/>
+		<tag k="phone" v="612-486-3600"/>
+		<tag k="phone" v="763-971-0404"/>
+		<tag k="phone" v="+1 612 724 3621"/>
+		<tag k="phone" v="763-425-5855"/>
+		<tag k="phone" v="763-315-7600"/>
+		<tag k="phone" v="763-425-1881"/>
+		<tag k="phone" v="945-929-6725"/>
+		<tag k="phone" v="763-745-5900"/>
+		<tag k="phone" v="+1 952-758-1600"/>
+		<tag k="phone" v="+1 612 825 2440"/>
+		<tag k="phone" v="763-971-0404"/>
+		<tag k="phone" v="763-971-0404"/>
+		<tag k="phone" v="952-476-1717"/>
+		<tag k="phone" v="952-985-8800"/>
+		<tag k="phone" v="952-985-8800"/>
+		<tag k="phone" v="763-656-1500"/>
+		<tag k="phone" v="763-656-1500"/>
+		<tag k="phone" v="952-829-8400"/>
+		<tag k="phone" v="651-688-3000"/>
+		<tag k="phone" v="651-688-3000"/>
+		<tag k="phone" v="763-767-9000"/>
+		<tag k="phone" v="763-767-9000"/>
+		<tag k="phone" v="763-576-3000"/>
+		<tag k="phone" v="952-835-2222"/>
+		<tag k="phone" v="952-380-0303"/>
+		<tag k="phone" v="952-830-7900"/>
+		<tag k="phone" v="952-830-7900"/>
+		<tag k="phone" v="952-830-7900"/>
+		<tag k="phone" v="(952) 953-2300"/>
+		<tag k="phone" v="+1 612 668 2720"/>
+		<tag k="phone" v="+1 612 789 0775"/>
+		<tag k="phone" v="+17153770888"/>
+		<tag k="phone" v="+17153779600"/>
+		<tag k="phone" v="+17153811422"/>
+		<tag k="phone" v="+17158080491"/>
+		<tag k="phone" v="+17153777737"/>
+		<tag k="phone" v="+1-612-668-3030"/>
+		<tag k="phone" v="651-437-4612"/>
+		<tag k="phone" v="651-731-4779"/>
+		<tag k="phone" v="651-714 - 3750"/>
+		<tag k="phone" v="715-262-5141"/>
+		<tag k="phone" v="763-315-8550"/>

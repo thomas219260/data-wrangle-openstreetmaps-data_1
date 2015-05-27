@@ -1,0 +1,346 @@
+   1 		<tag k="addr:postcode" v="100"/>
+100 3rd Ave S, Minneapolis, MN 55401
+================================================================================
+                <tag k="name" v="The Carlyle"/>
+                <tag k="building" v="residential"/>
+                <tag k="addr:street" v="3rd Avenue South"/>
+                <tag k="addr:postcode" v="100"/>                 <===== Fix
+                <tag k="addr:housename" v="The Carlyle"/>
+                        addr:housenumber                         <===== Add: 100
+================================================================================
+
+
+   1 		<tag k="addr:postcode" v="211"/>
+211 Sargent Drive, Red Wing, MN 55066-5066
+================================================================================
+                <tag k="name" v="Trailside Acres 1 and 2"/>
+                <tag k="phone" v="+1 651 3884747"/>
+                <tag k="building" v="apartments"/>
+                <tag k="operator" v="Security Management and Realty"/>
+                <tag k="addr:city" v="Red Wing"/>
+                <tag k="addr:state" v="MN"/>
+                <tag k="addr:street" v="Sargent Drive"/>
+                <tag k="addr:postcode" v="211"/>                 <===== Fix: 55066-5066
+                        addr:housenumber                         <===== Add: 211
+================================================================================
+
+
+
+   1 		<tag k="addr:postcode" v="5114"/>
+2418 University Ave W, St Paul, MN 55114
+================================================================================
+                <tag k="name" v="Roller Revolution"/>
+                <tag k="amenity" v="shop"/>
+                <tag k="addr:street" v="University Ave W"/>
+                        addr:city                                <===== Add
+                        addr:state                               <===== Add
+                <tag k="addr:postcode" v="5114"/>                <===== Fix: 55114
+                <tag k="contact:phone" v="7632694469"/>
+                <tag k="contact:website" v="http://www.roller-revolution.com"/>
+                <tag k="addr:housenumber" v="2418"/>
+================================================================================
+
+
+
+  70 		<tag k="addr:postcode" v="54016"/>
+   3 		<tag k="addr:postcode" v="54017"/>
+   3 		<tag k="addr:postcode" v="54020"/>
+   1 		<tag k="addr:postcode" v="54021"/>
+   9 		<tag k="addr:postcode" v="54022"/>
+   2 		<tag k="addr:postcode" v="54023"/>
+   1 		<tag k="addr:postcode" v="54024"/>
+   1 		<tag k="addr:postcode" v="54025"/>
+   3 		<tag k="addr:postcode" v="55001"/>
+   1 		<tag k="addr:postcode" v="55003-1490"/>
+  56 		<tag k="addr:postcode" v="55009"/>
+   1 		<tag k="addr:postcode" v="55014"/>
+  36 		<tag k="addr:postcode" v="55016"/>
+   1 		<tag k="addr:postcode" v="55016-3270"/>
+   1 		<tag k="addr:postcode" v="55022"/>
+   1 		<tag k="addr:postcode" v="55024"/>
+   2 		<tag k="addr:postcode" v="55025"/>
+  10 		<tag k="addr:postcode" v="55031"/>
+   1 		<tag k="addr:postcode" v="55031-0128"/>
+ 133 		<tag k="addr:postcode" v="55033"/>
+   1 		<tag k="addr:postcode" v="55038"/>
+   4 		<tag k="addr:postcode" v="55042"/>
+   9 		<tag k="addr:postcode" v="55043"/>
+  12 		<tag k="addr:postcode" v="55044"/>
+   1 		<tag k="addr:postcode" v="55047"/>
+   1 		<tag k="addr:postcode" v="55055"/>
+   5 		<tag k="addr:postcode" v="55057"/>
+   4 		<tag k="addr:postcode" v="55066"/>
+  25 		<tag k="addr:postcode" v="55068"/>
+   1 		<tag k="addr:postcode" v="55076"/>
+   2 		<tag k="addr:postcode" v="55077"/>
+  26 		<tag k="addr:postcode" v="55082"/>
+   1 		<tag k="addr:postcode" v="55089"/>
+  34 		<tag k="addr:postcode" v="55101"/>
+  21 		<tag k="addr:postcode" v="55102"/>
+   5 		<tag k="addr:postcode" v="55103"/>
+  53 		<tag k="addr:postcode" v="55104"/>
+   1 		<tag k="addr:postcode" v="55104-2008"/>
+  90 		<tag k="addr:postcode" v="55105"/>
+   6 		<tag k="addr:postcode" v="55106"/>
+   6 		<tag k="addr:postcode" v="55107"/>
+ 287 		<tag k="addr:postcode" v="55108"/>
+   1 		<tag k="addr:postcode" v="55108-1001"/>
+   2 		<tag k="addr:postcode" v="55108-1003"/>
+   3 		<tag k="addr:postcode" v="55108-1013"/>
+   1 		<tag k="addr:postcode" v="55108-1014"/>
+   1 		<tag k="addr:postcode" v="55108-1015"/>
+   1 		<tag k="addr:postcode" v="55108-1017"/>
+   1 		<tag k="addr:postcode" v="55108-1022"/>
+   1 		<tag k="addr:postcode" v="55108-1028"/>
+   1 		<tag k="addr:postcode" v="55108-1031"/>
+   1 		<tag k="addr:postcode" v="55108-1033"/>
+   1 		<tag k="addr:postcode" v="55108-1034"/>
+   3 		<tag k="addr:postcode" v="55108-1036"/>
+   2 		<tag k="addr:postcode" v="55108-1046"/>
+   1 		<tag k="addr:postcode" v="55108-1047"/>
+   1 		<tag k="addr:postcode" v="55108-1053"/>
+   1 		<tag k="addr:postcode" v="55108-1055"/>
+   1 		<tag k="addr:postcode" v="55108-1057"/>
+   1 		<tag k="addr:postcode" v="55108-1059"/>
+   1 		<tag k="addr:postcode" v="55108-1060"/>
+   1 		<tag k="addr:postcode" v="55108-1415"/>
+   1 		<tag k="addr:postcode" v="55108-1454"/>
+   2 		<tag k="addr:postcode" v="55108-6100"/>
+   7 		<tag k="addr:postcode" v="55109"/>
+   3 		<tag k="addr:postcode" v="55110"/>
+   2 		<tag k="addr:postcode" v="55111"/>
+  42 		<tag k="addr:postcode" v="55112"/>
+ 176 		<tag k="addr:postcode" v="55113"/>
+  29 		<tag k="addr:postcode" v="55114"/>
+   2 		<tag k="addr:postcode" v="55114-1251"/>
+  16 		<tag k="addr:postcode" v="55116"/>
+   1 		<tag k="addr:postcode" v="55116-2296"/>
+   4 		<tag k="addr:postcode" v="55117"/>
+  10 		<tag k="addr:postcode" v="55118"/>
+   4 		<tag k="addr:postcode" v="55119"/>
+   1 		<tag k="addr:postcode" v="55120"/>
+   4 		<tag k="addr:postcode" v="55121"/>
+ 362 		<tag k="addr:postcode" v="55122"/>
+   2 		<tag k="addr:postcode" v="55123"/>
+   1 		<tag k="addr:postcode" v="55123-1063"/>
+  49 		<tag k="addr:postcode" v="55124"/>
+  16 		<tag k="addr:postcode" v="55125"/>
+   3 		<tag k="addr:postcode" v="55126"/>
+   2 		<tag k="addr:postcode" v="55127"/>
+   5 		<tag k="addr:postcode" v="55128"/>
+   7 		<tag k="addr:postcode" v="55129"/>
+  18 		<tag k="addr:postcode" v="55130"/>
+   1 		<tag k="addr:postcode" v="55155"/>
+   1 		<tag k="addr:postcode" v="55162"/>
+   1 		<tag k="addr:postcode" v="55301"/>
+   4 		<tag k="addr:postcode" v="55303"/>
+   1 		<tag k="addr:postcode" v="55303-4839"/>
+   5 		<tag k="addr:postcode" v="55304"/>
+   6 		<tag k="addr:postcode" v="55305"/>
+  54 		<tag k="addr:postcode" v="55306"/>
+  31 		<tag k="addr:postcode" v="55311"/>
+   4 		<tag k="addr:postcode" v="55313"/>
+   4 		<tag k="addr:postcode" v="55316"/>
+  15 		<tag k="addr:postcode" v="55317"/>
+   1 		<tag k="addr:postcode" v="55318"/>
+   2 		<tag k="addr:postcode" v="55319"/>
+   2 		<tag k="addr:postcode" v="55320"/>
+   1 		<tag k="addr:postcode" v="55328"/>
+   3 		<tag k="addr:postcode" v="55330"/>
+   5 		<tag k="addr:postcode" v="55331"/>
+  53 		<tag k="addr:postcode" v="55337"/>
+   1 		<tag k="addr:postcode" v="55337-4236"/>
+   1 		<tag k="addr:postcode" v="55340"/>
+   7 		<tag k="addr:postcode" v="55343"/>
+  17 		<tag k="addr:postcode" v="55344"/>
+   4 		<tag k="addr:postcode" v="55345"/>
+  29 		<tag k="addr:postcode" v="55346"/>
+   5 		<tag k="addr:postcode" v="55347"/>
+   1 		<tag k="addr:postcode" v="55352"/>
+   1 		<tag k="addr:postcode" v="55356"/>
+   1 		<tag k="addr:postcode" v="55359"/>
+   2 		<tag k="addr:postcode" v="55362"/>
+   2 		<tag k="addr:postcode" v="55364"/>
+  34 		<tag k="addr:postcode" v="55369"/>
+  18 		<tag k="addr:postcode" v="55372"/>
+   1 		<tag k="addr:postcode" v="55373"/>
+   1 		<tag k="addr:postcode" v="55374"/>
+  10 		<tag k="addr:postcode" v="55376"/>
+   6 		<tag k="addr:postcode" v="55378"/>
+  26 		<tag k="addr:postcode" v="55379"/>
+   3 		<tag k="addr:postcode" v="55386"/>
+  10 		<tag k="addr:postcode" v="55391"/>
+   1 		<tag k="addr:postcode" v="554"/>
+  18 		<tag k="addr:postcode" v="55401"/>
+  17 		<tag k="addr:postcode" v="55402"/>
+   1 		<tag k="addr:postcode" v="55402-2368"/>
+  28 		<tag k="addr:postcode" v="55403"/>
+   1 		<tag k="addr:postcode" v="55403-2006"/>
+   1 		<tag k="addr:postcode" v="55403-3933"/>
+  52 		<tag k="addr:postcode" v="55404"/>
+   1 		<tag k="addr:postcode" v="55404-2601"/>
+  20 		<tag k="addr:postcode" v="55405"/>
+  96 		<tag k="addr:postcode" v="55406"/>
+  26 		<tag k="addr:postcode" v="55407"/>
+  61 		<tag k="addr:postcode" v="55408"/>
+  15 		<tag k="addr:postcode" v="55409"/>
+  21 		<tag k="addr:postcode" v="55410"/>
+   5 		<tag k="addr:postcode" v="55411"/>
+   1 		<tag k="addr:postcode" v="55411-4398"/>
+   3 		<tag k="addr:postcode" v="55412"/>
+  21 		<tag k="addr:postcode" v="55413"/>
+ 343 		<tag k="addr:postcode" v="55414"/>
+   1 		<tag k="addr:postcode" v="55414-2015"/>
+   1 		<tag k="addr:postcode" v="55414-2016"/>
+   1 		<tag k="addr:postcode" v="55414-2051"/>
+   1 		<tag k="addr:postcode" v="55414-2475"/>
+   1 		<tag k="addr:postcode" v="55414-2712"/>
+   3 		<tag k="addr:postcode" v="55414-2820"/>
+   1 		<tag k="addr:postcode" v="55414-2821"/>
+   1 		<tag k="addr:postcode" v="55414-2828"/>
+   1 		<tag k="addr:postcode" v="55414-2843"/>
+   1 		<tag k="addr:postcode" v="55414-2919"/>
+   1 		<tag k="addr:postcode" v="55414-2921"/>
+   1 		<tag k="addr:postcode" v="55414-3017"/>
+   1 		<tag k="addr:postcode" v="55414-3022"/>
+   2 		<tag k="addr:postcode" v="55414-3026"/>
+   1 		<tag k="addr:postcode" v="55414-3029"/>
+   2 		<tag k="addr:postcode" v="55414-3063"/>
+   1 		<tag k="addr:postcode" v="55414-3528"/>
+  24 		<tag k="addr:postcode" v="55415"/>
+   1 		<tag k="addr:postcode" v="55415-1226"/>
+  68 		<tag k="addr:postcode" v="55416"/>
+  20 		<tag k="addr:postcode" v="55417"/>
+   8 		<tag k="addr:postcode" v="55418"/>
+   1 		<tag k="addr:postcode" v="55418-3510"/>
+   1 		<tag k="addr:postcode" v="55418-4714"/>
+  26 		<tag k="addr:postcode" v="55419"/>
+   7 		<tag k="addr:postcode" v="55420"/>
+  10 		<tag k="addr:postcode" v="55421"/>
+   2 		<tag k="addr:postcode" v="55422"/>
+  40 		<tag k="addr:postcode" v="55423"/>
+   5 		<tag k="addr:postcode" v="55424"/>
+   8 		<tag k="addr:postcode" v="55425"/>
+  24 		<tag k="addr:postcode" v="55426"/>
+   9 		<tag k="addr:postcode" v="55427"/>
+   5 		<tag k="addr:postcode" v="55428"/>
+   1 		<tag k="addr:postcode" v="55429"/>
+   1 		<tag k="addr:postcode" v="55430"/>
+  39 		<tag k="addr:postcode" v="55431"/>
+  34 		<tag k="addr:postcode" v="55432"/>
+   4 		<tag k="addr:postcode" v="55433"/>
+   4 		<tag k="addr:postcode" v="55434"/>
+ 198 		<tag k="addr:postcode" v="55435"/>
+   1 		<tag k="addr:postcode" v="55435-4213"/>
+   1 		<tag k="addr:postcode" v="55435-4534"/>
+   2 		<tag k="addr:postcode" v="55435-5251"/>
+   1 		<tag k="addr:postcode" v="55436"/>
+  19 		<tag k="addr:postcode" v="55437"/>
+  10 		<tag k="addr:postcode" v="55438"/>
+   6 		<tag k="addr:postcode" v="55439"/>
+  11 		<tag k="addr:postcode" v="55441"/>
+   1 		<tag k="addr:postcode" v="55442"/>
+   5 		<tag k="addr:postcode" v="55443"/>
+   1 		<tag k="addr:postcode" v="55444"/>
+   1 		<tag k="addr:postcode" v="55445"/>
+   1 		<tag k="addr:postcode" v="55446"/>
+   5 		<tag k="addr:postcode" v="55447"/>
+   9 		<tag k="addr:postcode" v="55448"/>
+   2 		<tag k="addr:postcode" v="55449"/>
+   3 		<tag k="addr:postcode" v="55450"/>
+  40 		<tag k="addr:postcode" v="55454"/>
+   1 		<tag k="addr:postcode" v="55454-1015"/>
+   1 		<tag k="addr:postcode" v="55454-1313"/>
+ 160 		<tag k="addr:postcode" v="55455"/>
+   1 		<tag k="addr:postcode" v="55455-0130"/>
+   1 		<tag k="addr:postcode" v="55455-0143"/>
+   5 		<tag k="addr:postcode" v="55455-0153"/>
+   1 		<tag k="addr:postcode" v="55455-0200"/>
+   1 		<tag k="addr:postcode" v="55455-0226"/>
+   1 		<tag k="addr:postcode" v="55455-0236"/>
+   1 		<tag k="addr:postcode" v="55455-0237"/>
+   1 		<tag k="addr:postcode" v="55455-0240"/>
+   1 		<tag k="addr:postcode" v="55455-0366"/>
+   3 		<tag k="addr:postcode" v="55455-0367"/>
+   1 		<tag k="addr:postcode" v="55455-0425"/>
+   1 		<tag k="addr:postcode" v="55455-0441"/>
+   1 		<tag k="addr:postcode" v="55455-0442"/>
+   1 		<tag k="addr:postcode" v="55455-0485"/>
+   1 		<tag k="addr:postcode" v="55455-0500"/>
+   1 		<tag k="addr:postcode" v="55455-1502"/>
+   2 		<tag k="addr:postcode" v="55455-3002"/>
+   1 		<tag k="addr:postcode" v="55455-3003"/>
+   1 		<tag k="addr:postcode" v="55455-3006"/>
+   1 		<tag k="addr:postcode" v="55455-3027"/>
+   1 		<tag k="addr:postcode" v="55488"/>
+  26 		<tag k="addr:postcode" v="56071"/>
+
+
+   1 		<tag k="addr:postcode" v="822"/>
+822 W 98th St, Minneapolis, MN 55420
+
+================================================================================
+                <tag k="name" v="Discland"/>
+                <tag k="shop" v="music"/>
+                <tag k="website" v="http://disclandonline.com/"/>
+                <tag k="addr:street" v="W 98th Street"/>
+                        addr:city                                <===== Add
+                        addr:state                               <===== Add
+                <tag k="addr:postcode" v="822"/>                 <===== Fix: 55420
+                        addr:housenumber                         <===== Add: 822
+================================================================================
+
+
+
+
+
+
+
+   1 		<tag k="addr:postcode" v="MN 55106"/>
+   1 		<tag k="addr:postcode" v="MN 55430"/>
+   1 		<tag k="addr:postcode" v="MN 55435"/>
+
+
+
+   1 		<tag k="addr:postcode" v="MN"/>
+3021 Holmes Avenue South, Minneapolis, MN 55408
+================================================================================
+                <tag k="name" v="Solhem"/>
+                <tag k="website" v="http://solhemuptown.com"/>
+                <tag k="building" v="residential"/>
+                <tag k="addr:city" v="Minneapolis"/>
+                        addr:state                               <===== Add
+                <tag k="wheelchair" v="yes"/>
+                <tag k="addr:street" v="Holmes Avenue South"/>
+                <tag k="addr:postcode" v="MN"/>                  <===== Fix
+                <tag k="building:levels" v="6"/>
+                <tag k="addr:housenumber" v="3021"/>
+================================================================================
+
+
+
+   1 		<tag k="addr:postcode" v="Pillsbury Dr"/>
+
+http://www1.umn.edu/pts/park/facilities/ebl.html#c8
+http://www1.umn.edu/pts/park/facilities/ebl.html#c38
+http://www1.umn.edu/pts/park/facilities/ebl.html#c39
+
+C-8:  405 Church St SE, Minneapolis, MN 55455
+C-38: 401 Pillsbury Dr, Minneapolis, MN 55455
+C-39: 1760 University Ave SE, Minneapolis, MN 55455
+================================================================================
+                <tag k="name" v="C-39"/>
+                <tag k="image" v="http://www1.umn.edu/pts/park/facilities/images/lot_photos/C39.jpg"/>
+                <tag k="amenity" v="parking"/>
+                <tag k="parking" v="surface"/>
+                <tag k="website" v="http://www1.umn.edu/pts/park/facilities/ebl.html#c39"/>
+                <tag k="capacity" v="5"/>
+                <tag k="operator" v="University of Minnesota"/>
+                <tag k="addr:city" v="Minneapolis"/>
+                <tag k="addr:state" v="MN"/>
+                <tag k="addr:street" v="Church St SE"/>         <==== Fix: University Ave SE
+                <tag k="addr:country" v="US"/>
+                <tag k="addr:postcode" v="Pillsbury Dr"/>       <==== Fix: 55455
+                <tag k="addr:housenumber" v="401"/>             <==== Fix: 1760
+                <tag k="capacity:disabled" v="0"/>
+================================================================================

@@ -1,0 +1,16 @@
+Google Maps
+https://www.google.com/
+
+Python Regular Expression Tutorial:
+https://docs.python.org/2/howto/regex.html
+
+OpenStreetMap Wiki Developer Page:
+https://wiki.openstreetmap.org/wiki/Develop
+https://wiki.openstreetmap.org/wiki/OSM_XML
+https://wiki.openstreetmap.org/wiki/Key:amenity
+
+MongoDB Documentation
+http://docs.mongodb.org/manual/reference/
+
+Free Online Reverse Geocoding:
+https://geoservices.tamu.edu/Services/ReverseGeocoding/

@@ -1,0 +1,7 @@
+Here's a link to the map position I wrangled in my project:
+https://s3.amazonaws.com/metro-extracts.mapzen.com/minneapolis-saint-paul_minnesota.osm.bz2
+
+The area in this map contains the Minneapolis - St. Paul metro area,
+including the suburbs of Minnetonka and Bloomington.  I chose this area
+because it include the University of Minnesota, where I went to graduate
+school.
